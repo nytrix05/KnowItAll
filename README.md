@@ -3,6 +3,7 @@
 STOP Watching Brainless Short Videos for Dopamin, start micro-learning and still feel satisfied.
 
 This App allows you to expand your knowledge in 28 subject areas, through micro-questions and an optional information text.
+It was the most biggest and actually first projekt i did, the hole App is now finished, so i hope that it will make it in to the Google Play and Apple App Store. 
 
 I did build this app with the GUI-Toolkit Kivy in Pyhton. So if you want to download and try the app make sure to setup the needed requierements.
 
