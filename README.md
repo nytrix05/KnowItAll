@@ -7,6 +7,8 @@ This App allows you to expand your knowledge in 28 subject areas, through micro-
 I did build this app with the GUI-Toolkit Kivy in Pyhton. So if you want to download and try the app make sure to setup the needed requierements.
 
 "pip install -U pip" "pip install kivy" "pip install python3" "pip install kivy-garden" "garden install kivy" "python -m pip install -U matplotlib" "pip install clock" "pip install datetime" "pip install thread" "pip install pygal" "pip install numpy" "pip install importlib_metadata" 
+
+
 ![KnowITAllLogin](https://github.com/user-attachments/assets/881e35fe-5f3f-4703-a55d-b088a3561c6d)
 ![Menu](https://github.com/user-attachments/assets/8feefeb7-ad2c-4eab-9ecb-53081aae5d0c)
 ![bei](https://github.com/user-attachments/assets/5cde559c-ca66-406b-9427-fe35b40742ed)
